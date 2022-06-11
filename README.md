@@ -1,5 +1,6 @@
 ### Hi there 👋
 Deeply committed Software Developer and always eager to learn more!
+<br />
 I'm currently learning Pinia...
 <br /> <br />
 Knowledge:
