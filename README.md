@@ -1,7 +1,6 @@
 ### Hi there 👋
 Deeply committed Software Developer and always eager to learn more!
 
- <br />
  JavaScript · TypeScript 
  <br />
  React.js · Vue.js
