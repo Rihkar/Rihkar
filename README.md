@@ -5,10 +5,10 @@ I'm currently learning Angular...
 <br /> <br />
 Knowledge:
  <br />
- HTML · CSS  
  JavaScript · TypeScript 
+ React.js · Vue.js
  <br />
- React.js · Vue.js 
+ HTML · CSS  
  <br />
  Git 
  <br />
