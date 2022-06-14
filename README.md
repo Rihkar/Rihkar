@@ -1,8 +1,6 @@
 ### Hi there 👋
 Deeply committed Software Developer and always eager to learn more!
 
-<br /> <br />
-Knowledge:
  <br />
  JavaScript · TypeScript 
  <br />
