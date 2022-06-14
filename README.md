@@ -10,7 +10,6 @@ Knowledge:
  React.js · Vue.js
  <br />
  HTML · CSS  
- <br />
  Git 
  <br />
  Microsoft Visual Studio Code
