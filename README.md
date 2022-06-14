@@ -5,7 +5,7 @@ I'm currently learning Angular...
 <br /> <br />
 Knowledge:
  <br />
- Cascading Style Sheets (CSS)  
+ HTML · CSS  
  JavaScript · TypeScript 
  <br />
  React.js · Vue.js 
