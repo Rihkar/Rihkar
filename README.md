@@ -6,6 +6,7 @@ I'm currently learning Angular...
 Knowledge:
  <br />
  JavaScript · TypeScript 
+ <br />
  React.js · Vue.js
  <br />
  HTML · CSS  
