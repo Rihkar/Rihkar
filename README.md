@@ -3,7 +3,7 @@ Deeply committed Software Developer and always eager to learn more!
 
  JavaScript · TypeScript 
  <br />
- React.js · Vue.js
+ React · VueJs · Angular
  <br />
  HTML · CSS  
  Git 
