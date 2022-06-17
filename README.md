@@ -5,6 +5,8 @@ Deeply committed Software Developer and always eager to learn more!
  <br />
  React · VueJs · Angular
  <br />
+ React Redux · Vuex 
+ <br />
  HTML · CSS  
  Git 
  <br />
