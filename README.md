@@ -9,7 +9,7 @@
  <br />
  Microsoft Visual Studio Code
 <br /> <br />
-My LinkedIn - https://www.linkedin.com/in/rihards-hanriot-karlauskis/
+
 ---
 <div style="display: flex">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JavaScript" width="50" height="50"/> 
